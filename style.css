@@ -30,10 +30,13 @@ img {
 
 .box {
     display: inline-block;
-    width: 210px;
-    height: 210px;
+    background-color: white;
 }
 
 .painted {
     background-color: black;
+}
+
+#restartButton:hover {
+    cursor: pointer;
 }
