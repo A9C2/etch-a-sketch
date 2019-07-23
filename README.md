@@ -10,3 +10,6 @@
 <ul>
     <li>Restart button icon: https://icons8.com/icon/1457/restart</li>
 </ul>
+
+<h3>You can see how it works here:</h3>
+<p>https://a9c2.github.io/etch-a-sketch/</p>
